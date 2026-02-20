@@ -664,7 +664,7 @@ Results should be interpreted with extreme caution.
 
 ## 📞 Technical Support
 
-If you encounter technical issues or have suggestions for improvement, please contact the system administrator.
+If you encounter technical issues or have suggestions for improvement, please contact the system administrator (Ning Zhang: ningzhangbox@163.com).
 
 ---
 
