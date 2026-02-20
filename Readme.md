@@ -1,4 +1,5 @@
 **Principal Investigator**: Dongmei Ji
+
 **Key Contributor**: Ning Zhang, Yang Yang, Haoyu He
 
 # EasyPediDraw User Guide
